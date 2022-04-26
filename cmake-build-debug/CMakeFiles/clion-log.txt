@@ -1,4 +1,10 @@
-C:\Users\basti\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.7172.20\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/basti/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/ninja/win/ninja.exe "-DCMAKE_CXX_FLAGS=-Wall -Wextra -Wconversion -Wsign-conversion -pedantic" -G Ninja "G:\Mon Drive\HEIG-VD\PRG2\Lab\Labo_PRG2_Galton"
+C:\Users\Lobra\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.7172.20\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\HEIG\PRG2\Labo_PRG2_Galton
+-- The C compiler identification is GNU 11.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: G:/Mon Drive/HEIG-VD/PRG2/Lab/Labo_PRG2_Galton/cmake-build-debug
+-- Build files have been written to: D:/HEIG/PRG2/Labo_PRG2_Galton/cmake-build-debug
