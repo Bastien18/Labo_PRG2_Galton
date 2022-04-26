@@ -1,3 +1,3 @@
-D:/HEIG/PRG2/Labo_PRG2_Galton/cmake-build-debug/CMakeFiles/Labo_PRG2_Galton.dir
-D:/HEIG/PRG2/Labo_PRG2_Galton/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/HEIG/PRG2/Labo_PRG2_Galton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/Mon Drive/HEIG-VD/PRG2/Lab/Labo_PRG2_Galton/cmake-build-debug/CMakeFiles/Labo_PRG2_Galton.dir
+G:/Mon Drive/HEIG-VD/PRG2/Lab/Labo_PRG2_Galton/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Mon Drive/HEIG-VD/PRG2/Lab/Labo_PRG2_Galton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
